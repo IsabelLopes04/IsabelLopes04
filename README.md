@@ -30,6 +30,7 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
     />
 </a>
 
+
 <a href="https://wa.me/5524992483522" target="_blank">
     <img
         align="left"
