@@ -40,11 +40,9 @@ Confira meus projetos e experiências no meu portfólio:
 </a>
 
 
+<br>
 
-
-## Conhecimentos estruturados
-
-### Desenvolvimento Web
+## 🤖 Linguagens e Tecnologias
 
 <img
     align="left"
@@ -73,8 +71,6 @@ Confira meus projetos e experiências no meu portfólio:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-### Design & UX/UI
-
 <img
     align="left"
     alt="Figma"
@@ -83,15 +79,6 @@ Confira meus projetos e experiências no meu portfólio:
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-
-- UX/UI Design
-- Wireframing
-- Prototipação
-- Identidade Visual
-- Testes de Usabilidade
-- Acessibilidade
-
-### Ferramentas
 
 <img
     align="left"
@@ -110,7 +97,7 @@ Confira meus projetos e experiências no meu portfólio:
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-
+<br>
 
 ##  Atualmente estudando
 <img
@@ -184,6 +171,8 @@ Confira meus projetos e experiências no meu portfólio:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
+<br>
+
 #  Projetos em destaque
 
 ###  Rumo Viagens
@@ -237,6 +226,8 @@ Participação em programa de pré-aceleração voltado ao desenvolvimento e est
 Apresentação da Rumo Viagens em evento de inovação e empreendedorismo.
 
 #  GitHub Stats
+
+## 📊 GitHub Stats
 
 ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelLopes04&show_icons=true&hide_border=true&count_private=true)
 
