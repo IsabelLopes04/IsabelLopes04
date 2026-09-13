@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olá, eu sou a Isabel Lopes.
 
 **Desenvolvedora Web em Formação**  
@@ -15,22 +16,70 @@ Confira meus projetos e experiências no meu portfólio:
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-lopesifsp/)
+<a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
+    <img
+        align="left"
+        alt="LinkedIn"
+        title="LinkedIn"
+        width="40px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    />
+</a>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524992483522)
+<a href="https://wa.me/5524992483522" target="_blank">
+    <img
+        align="left"
+        alt="WhatsApp"
+        title="WhatsApp"
+        width="40px"
+        style="padding-right: 10px;"
+        src="https://cdn.simpleicons.org/whatsapp/25D366"
+    />
+</a>
 
 
 ## Conhecimentos estruturados
 
 ### Desenvolvimento Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
 
 ### Design & UX/UI
 
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
 
 - UX/UI Design
 - Wireframing
@@ -41,19 +90,96 @@ Confira meus projetos e experiências no meu portfólio:
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 
 ##  Atualmente estudando
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    alt="Next.js"
+    title="Next.js"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img
+    align="left"
+    alt="Tailwind"
+    title="Tailwind"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="40px"
+    fill="white"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
 #  Projetos em destaque
 
@@ -113,3 +239,21 @@ Apresentação da Rumo Viagens em evento de inovação e empreendedorismo.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IsabelLopes04&hide_border=true)
 
+=======
+## Hi there 👋
+
+<!--
+**IsabelLopes04/IsabelLopes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> eb6d0c3a56de49b4f5e19c08a24ec31d70078f74
