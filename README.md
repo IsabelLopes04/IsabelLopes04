@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Isabel+Lopes!"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=500&lines=Olá%2C+eu+sou+a+Isabel+Lopes!"
       alt="Typing SVG"
     />
   </a>
@@ -100,4 +100,15 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 
 ##  GitHub Stats
 
-![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelLopes04&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <a href="https://github.com/IsabelLopes04">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelLopes04&layout=compact&langs_count=8&theme=tokyonight"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsabelLopes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+  </a>
+</div>
