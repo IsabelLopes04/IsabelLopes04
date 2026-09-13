@@ -7,13 +7,11 @@
   </a>
 </p>
 
- **Desenvolvedora Web em Formação**  
- Estudante de **Análise e Desenvolvimento de Sistemas — IFSP Caraguatatuba**  
- Interesse em **Desenvolvimento Web, UX/UI e Produtos Digitais**
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP Caraguatatuba**, com foco em **desenvolvimento web, UX/UI e produtos digitais**.
 
-Tenho experiência prática em projetos acadêmicos, colaborativos e de inovação, atuando em diferentes etapas da criação de produtos digitais, desde **ideação, UX/UI e identidade visual até prototipação, testes e evolução das plataformas**.
+Possuo experiência prática em projetos acadêmicos, colaborativos e de inovação, participando de diferentes etapas do desenvolvimento de produtos digitais, incluindo **ideação, pesquisa, UX/UI, identidade visual, prototipação, testes de usabilidade e evolução de plataformas**.
 
-Atualmente, estou aprofundando meus conhecimentos em **React, Next.js, TypeScript, Java, Spring Boot, APIs REST e Inteligência Artificial**.
+Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript, Java, Spring Boot, APIs REST, Python, Inteligência Artificial e automação de processos**.
 
 🌐 **[Confira meu portfólio](https://meuportifolio20.vercel.app/)**
 
