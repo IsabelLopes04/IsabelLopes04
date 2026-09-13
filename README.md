@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Olá, eu sou a Isabel Lopes.
 
 **Desenvolvedora Web em Formação**  
@@ -27,6 +27,7 @@ Confira meus projetos e experiências no meu portfólio:
     />
 </a>
 
+
 <a href="https://wa.me/5524992483522" target="_blank">
     <img
         align="left"
@@ -37,6 +38,8 @@ Confira meus projetos e experiências no meu portfólio:
         src="https://cdn.simpleicons.org/whatsapp/25D366"
     />
 </a>
+
+
 
 
 ## Conhecimentos estruturados
@@ -224,13 +227,13 @@ Instituto Federal de São Paulo — IFSP Caraguatatuba
 
 #  Experiências e conquistas
 
-🥇 **1º lugar — 1º Hackathon IFSP Litoral Norte**  
+**1º lugar — 1º Hackathon IFSP Litoral Norte**  
 Projeto CaraguáTour, posteriormente desenvolvido como Rumo Viagens.
 
-🚀 **Programa Start — Sebrae Startups**  
+**Programa Start — Sebrae Startups**  
 Participação em programa de pré-aceleração voltado ao desenvolvimento e estruturação da Rumo Viagens.
 
-🎤 **Speaker — Startup Day**  
+**Speaker — Startup Day**  
 Apresentação da Rumo Viagens em evento de inovação e empreendedorismo.
 
 #  GitHub Stats
@@ -238,22 +241,3 @@ Apresentação da Rumo Viagens em evento de inovação e empreendedorismo.
 ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelLopes04&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IsabelLopes04&hide_border=true)
-
-=======
-## Hi there 👋
-
-<!--
-**IsabelLopes04/IsabelLopes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> eb6d0c3a56de49b4f5e19c08a24ec31d70078f74
