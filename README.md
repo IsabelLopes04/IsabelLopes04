@@ -1,4 +1,11 @@
-# Olá, eu sou a Isabel Lopes 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Isabel+Lopes!"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
  **Desenvolvedora Web em Formação**  
  Estudante de **Análise e Desenvolvimento de Sistemas — IFSP Caraguatatuba**  
@@ -63,7 +70,7 @@ Atualmente, estou aprofundando meus conhecimentos em **React, Next.js, TypeScrip
 
 ---
 
-## 🌱 Atualmente estudando
+##  Atualmente estudando
 
 <img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
@@ -87,7 +94,7 @@ Atualmente, estou aprofundando meus conhecimentos em **React, Next.js, TypeScrip
 
 **IA & Automação:** Python · Agentes de IA · Automação de processos · Integração de APIs
 
-
+<br><br>
 
 ---
 
