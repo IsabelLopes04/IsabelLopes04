@@ -64,7 +64,7 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 
 **UX/UI:** Wireframing · Prototipação · Identidade Visual · Testes de Usabilidade · Acessibilidade
 
-**Ferramentas:** Git · GitHub · Tailwind CSS
+**Ferramentas:** Git · GitHub 
 
 ---
 
@@ -92,12 +92,12 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 
 **IA & Automação:** Python · Agentes de IA · Automação de processos · Integração de APIs
 
-<br><br>
+**Ferramentas:** Tailwind CSS
+
+<br>
 
 ---
 
 ##  GitHub Stats
 
 ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelLopes04&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IsabelLopes04&hide_border=true)
