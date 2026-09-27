@@ -55,7 +55,6 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 
 <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -70,12 +69,10 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 ---
 
 ##  Atualmente estudando
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<img align="left" alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -89,7 +86,7 @@ Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript
 
 <br><br>
 
-**Desenvolvimento:** React · Next.js · TypeScript · Java · Spring Boot · APIs REST · Banco de Dados
+**Desenvolvimento:** JavaScript · React · Java · Spring Boot · APIs REST · Banco de Dados
 
 **IA & Automação:** Python · Agentes de IA · Automação de processos · Integração de APIs
 
