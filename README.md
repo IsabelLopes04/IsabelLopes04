@@ -13,7 +13,7 @@ Possuo experiência prática em projetos acadêmicos, colaborativos e de inovaç
 
 Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript, Java, Spring Boot, APIs REST, Python, Inteligência Artificial e automação de processos**.
 
-🌐 **[Confira meu portfólio](https://meuportifolio20.vercel.app/)**
+🌐 **[Confira meu Portfólio](https://meuportifolio20.vercel.app/)**
 
 ---
 
