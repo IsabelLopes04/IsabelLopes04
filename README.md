@@ -1,112 +1,109 @@
-<p align="center">
+ <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=500&lines=Olá%2C+eu+sou+a+Isabel+Lopes!"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Isabel+Lopes!;Estudante+de+ADS+no+IFSP;UX%2FUI+Design+%7C+Desenvolvimento+Web;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais"
       alt="Typing SVG"
     />
   </a>
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP Caraguatatuba**, com foco em **desenvolvimento web, UX/UI e produtos digitais**.
+<p align="center">
+  <a href="https://meuportifolio20.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Possuo experiência prática em projetos acadêmicos, colaborativos e de inovação, participando de diferentes etapas do desenvolvimento de produtos digitais, incluindo **ideação, pesquisa, UX/UI, identidade visual, prototipação, testes de usabilidade e evolução de plataformas**.
+## Sobre mim
 
-Atualmente, estou aprimorando meus conhecimentos em **React, Next.js, TypeScript, Java, Spring Boot, APIs REST, Python, Inteligência Artificial e automação de processos**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP Caraguatatuba**, com interesse em **desenvolvimento de software, UX/UI Design e criação de produtos digitais**.
 
-🌐 **[Confira meu Portfólio](https://meuportifolio20.vercel.app/)**
+Minha experiência vem principalmente de projetos acadêmicos, colaborativos e de inovação, nos quais participei de diferentes etapas do desenvolvimento: desde a compreensão do problema e organização das ideias até a criação de interfaces, prototipação e testes.
 
----
+Tenho facilidade em transitar entre o olhar do usuário e a parte técnica. Gosto de pensar em soluções que sejam visualmente agradáveis, intuitivas e que realmente funcionem na prática.
 
-##  Conecte-se comigo
+Também possuo vivência em **suporte técnico em ambiente escolar**, com atividades de configuração de computadores, resolução de problemas de rede, instalação de equipamentos e apoio aos usuários.
 
-<a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
-    <img
-        align="left"
-        alt="LinkedIn"
-        title="LinkedIn"
-        width="40px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-    />
-</a>
+Acredito que meus principais pontos fortes são a **criatividade, atenção aos detalhes, capacidade de resolver problemas, organização e colaboração**.
 
-
-<a href="https://wa.me/5524992483522" target="_blank">
-    <img
-        align="left"
-        alt="WhatsApp"
-        title="WhatsApp"
-        width="40px"
-        style="padding-right: 10px;"
-        src="https://cdn.simpleicons.org/whatsapp/25D366"
-    />
-</a>
-
-<br>
+🌐 **[Confira meu portfólio](https://meuportifolio20.vercel.app/)**
 
 ---
 
-##  Conhecimentos sólidos
+## Áreas de interesse e atuação
 
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
-<img align="left" alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<br><br>
-
-**UX/UI:** Wireframing · Prototipação · Identidade Visual · Testes de Usabilidade · Acessibilidade
-
-**Ferramentas:** Git · GitHub 
+- **UX/UI Design:** pesquisa, wireframes, prototipação, identidade visual e testes de usabilidade.
+- **Desenvolvimento Web:** estruturação e estilização de interfaces com HTML e CSS.
+- **Desenvolvimento de Software:** lógica de programação e projetos acadêmicos com Java.
+- **Suporte Técnico:** configuração de equipamentos, diagnóstico e resolução de problemas.
 
 ---
 
-##  Atualmente estudando
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+## Tecnologias e ferramentas
 
-<img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+Tecnologias e ferramentas com as quais já trabalhei em estudos e projetos:
 
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+**Desenvolvimento:** HTML · CSS · Java
 
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+**Design:** Figma · Wireframes · Prototipação · Identidade Visual
 
-<img align="left" alt="Spring Boot" title="Spring Boot" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-
-
-<br><br>
-
-**Desenvolvimento:** JavaScript · React · Java · Spring Boot · APIs REST · Banco de Dados
-
-**IA & Automação:** Python · Agentes de IA · Automação de processos · Integração de APIs
-
-**Ferramentas:** Tailwind CSS
-
-<br>
+**Versionamento:** Git · GitHub
 
 ---
 
-##  GitHub Stats
+## Projetos em destaque
+
+### [Rumo Viagens](https://www.rumoviagens.com.br)
+Plataforma digital que conecta turistas a guias locais, valorizando o turismo regional. Projeto colaborativo premiado em **1º lugar no Hackathon do IFSP Caraguatatuba**.
+
+### [Gestão de Vendas](https://github.com/IsabelLopes04/gestao-vendas)
+Sistema web para gerenciamento de vendas, metas e promotores, com dashboard, rankings de desempenho e geração de relatórios em PDF.
+
+### 4UTravel
+Projeto de UX/UI voltado ao turismo acessível, com foco na experiência do usuário e na criação de uma interface inclusiva.
+
+---
+
+## Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://wa.me/5524992483522" target="_blank">
+    <img alt="WhatsApp" title="WhatsApp" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/whatsapp/25D366" />
+  </a>
+  <a href="https://github.com/IsabelLopes04" target="_blank">
+    <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/IsabelLopes04">
     <img
       height="180em"
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelLopes04&layout=compact&langs_count=8&theme=tokyonight"
+      alt="Linguagens mais utilizadas"
     />
     <img
       height="180em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsabelLopes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      alt="Estatísticas do GitHub"
     />
   </a>
 </div>
