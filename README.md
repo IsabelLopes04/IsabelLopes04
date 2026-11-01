@@ -1,109 +1,84 @@
- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Isabel+Lopes!;Estudante+de+ADS+no+IFSP;UX%2FUI+Design+%7C+Desenvolvimento+Web;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A5AF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Isabel+Lopes!;Estudante+de+ADS+no+IFSP;UX%2FUI+Design+%7C+Desenvolvimento+Web;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://meuportifolio20.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-7A5AF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
+
+---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP Caraguatatuba**, com interesse em **desenvolvimento de software, UX/UI Design e criação de produtos digitais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP – Campus Caraguatatuba**.
 
-Minha experiência vem principalmente de projetos acadêmicos, colaborativos e de inovação, nos quais participei de diferentes etapas do desenvolvimento: desde a compreensão do problema e organização das ideias até a criação de interfaces, prototipação e testes.
+Tenho interesse em **Desenvolvimento de Software, Desenvolvimento Web e UX/UI Design**. Gosto de unir criatividade, tecnologia e visão de produto para transformar ideias em soluções digitais.
 
-Tenho facilidade em transitar entre o olhar do usuário e a parte técnica. Gosto de pensar em soluções que sejam visualmente agradáveis, intuitivas e que realmente funcionem na prática.
+Ao longo da minha trajetória, participei de projetos acadêmicos e colaborativos, envolvendo pesquisa, prototipação, desenvolvimento, testes e melhoria da experiência do usuário.
 
-Também possuo vivência em **suporte técnico em ambiente escolar**, com atividades de configuração de computadores, resolução de problemas de rede, instalação de equipamentos e apoio aos usuários.
+Busco oportunidades para continuar aprendendo, desenvolver minhas habilidades e contribuir com projetos que gerem resultados.
 
-Acredito que meus principais pontos fortes são a **criatividade, atenção aos detalhes, capacidade de resolver problemas, organização e colaboração**.
+## Principais projetos
 
-🌐 **[Confira meu portfólio](https://meuportifolio20.vercel.app/)**
-
----
-
-## Áreas de interesse e atuação
-
-- **UX/UI Design:** pesquisa, wireframes, prototipação, identidade visual e testes de usabilidade.
-- **Desenvolvimento Web:** estruturação e estilização de interfaces com HTML e CSS.
-- **Desenvolvimento de Software:** lógica de programação e projetos acadêmicos com Java.
-- **Suporte Técnico:** configuração de equipamentos, diagnóstico e resolução de problemas.
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3> Rumo Viagens</h3>
+      <p>Plataforma que conecta turistas a guias locais, incentivando o turismo regional. Projeto vencedor do 1º lugar no Hackathon do IFSP Caraguatatuba.</p>
+      <a href="https://www.rumoviagens.com.br">Conhecer o projeto</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3> ADS Conecta</h3>
+      <p>Projeto com atuação em UX/UI Design, pesquisa de campo, testes de usabilidade e atualização de conteúdo, com foco na experiência dos usuários.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3> SistemaJava</h3>
+      <p>Sistema acadêmico desenvolvido em equipe com Java e MySQL, aplicando orientação a objetos, organização em camadas e integração com banco de dados.</p>
+      <a href="https://github.com/GustavoORl/SistemaJava">Ver repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3> Gestão de Vendas</h3>
+      <p>Sistema web para gerenciamento de vendas, metas e promotores, com dashboard, rankings de desempenho e geração de relatórios em PDF.</p>
+      <a href="https://github.com/IsabelLopes04/gestao-vendas">Ver repositório</a>
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias e ferramentas
 
-Tecnologias e ferramentas com as quais já trabalhei em estudos e projetos:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,figma,git,github" />
+</div>
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</p>
+## Interesses profissionais
 
-**Desenvolvimento:** HTML · CSS · Java
+- Desenvolvimento de Software
+- Desenvolvimento Web
+- UX/UI Design
+- Experiência do Usuário
+- Criação e evolução de produtos digitais
 
-**Design:** Figma · Wireframes · Prototipação · Identidade Visual
-
-**Versionamento:** Git · GitHub
-
----
-
-## Projetos em destaque
-
-### [Rumo Viagens](https://www.rumoviagens.com.br)
-Plataforma digital que conecta turistas a guias locais, valorizando o turismo regional. Projeto colaborativo premiado em **1º lugar no Hackathon do IFSP Caraguatatuba**.
-
-### [Gestão de Vendas](https://github.com/IsabelLopes04/gestao-vendas)
-Sistema web para gerenciamento de vendas, metas e promotores, com dashboard, rankings de desempenho e geração de relatórios em PDF.
-
-### 4UTravel
-Projeto de UX/UI voltado ao turismo acessível, com foco na experiência do usuário e na criação de uma interface inclusiva.
-
----
-
-## Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabel-lopesifsp" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://wa.me/5524992483522" target="_blank">
-    <img alt="WhatsApp" title="WhatsApp" width="40px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/whatsapp/25D366" />
-  </a>
-  <a href="https://github.com/IsabelLopes04" target="_blank">
-    <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
+## GitHub
 
 <div align="center">
-  <a href="https://github.com/IsabelLopes04">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsabelLopes04&layout=compact&langs_count=8&theme=tokyonight"
-      alt="Linguagens mais utilizadas"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsabelLopes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-      alt="Estatísticas do GitHub"
-    />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelLopes04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelLopes04&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsabelLopes04&color=7A5AF8&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" />
+</div>
+
+---
+
+<div align="center">
+  <h3> Obrigada pela visita!</h3>
+  <p>Estou sempre aprendendo, criando e buscando novos desafios na tecnologia.</p>
 </div>
